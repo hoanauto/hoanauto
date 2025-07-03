@@ -7,17 +7,18 @@
   👋 Hi there! I'm <strong>Nguyễn Trọng Hoan</strong>  
 </p>
 <p align="center">
-  <i>Embedded System Engineer | STM32 | AUTOSAR Enthusiast | Motor Controller Developer</i>
+  <i>Automotive Engineer | STM32 | AUTOSAR </i>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Kỹ sư nhúng chuyên thiết kế hệ thống nhúng dùng STM32
-- ⚙️ Thành thạo AUTOSAR Layer: Port, DIO, PWM, ADC...
+- 🎓 Đã có kinh nghiệm thiết kế hệ thống nhúng dùng STM32,ESP32,Arduino
+- ⚙️ Đang nghiên cứu AUTOSAR Layer: Port, DIO, PWM, ADC...
 - 🔌 Có kinh nghiệm thực tế giao tiếp **CAN, SPI, UART**
-- ⚡ Hiện đang phát triển: **AC Induction Motor Controller với SPWM**
+- ⚡ Đồ án tốt nghiệp: **AC Induction Motor Controller với SPWM**
+- 🔌Đề tài đang thực hiện: Ứng dụng CAN cho xe máy điện
 
 ---
 
